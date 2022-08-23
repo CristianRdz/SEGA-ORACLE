@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/vistas/auto/crear_autos.jsp" value="file://$PROJECT_DIR$/src/main/webapp/vistas/auto" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/vistas/auto/gestion_autos.jsp" value="file://$PROJECT_DIR$/src/main/webapp/vistas/auto" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/vistas/auto/ver_autos.jsp" value="file://$PROJECT_DIR$/src/main/webapp/vistas/auto" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/vistas/historial_rev/historial_detalles.jsp" value="file://$PROJECT_DIR$/src/main/webapp/vistas/historial_rev" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/vistas/pago/pago_detalles.jsp" value="file://$PROJECT_DIR$/src/main/webapp/vistas/pago" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/vistas/revision/cancelar_revision.jsp" value="file://$PROJECT_DIR$/src/main/webapp/vistas/revision" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/vistas/usuario/usuario.jsp" value="file://$PROJECT_DIR$/src/main/webapp/vistas/usuario" />
+      </map>
+    </option>
+  </component>
+</project>

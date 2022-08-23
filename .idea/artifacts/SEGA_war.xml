@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SEGA:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SEGA</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SEGA-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SEGA:war exploded" />
+    </root>
+  </artifact>
+</component>
